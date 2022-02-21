@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brian</h1>
-<h3 align="center">A passionate frontend developer from Earth</h3>
+<h3 align="center">A passionate fullstack developer from Earth</h3>
 
 - 📫 How to reach me **nunya@gmail.com**
 
