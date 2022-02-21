@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Brian</h1>
+<h1 align="center">Hi 👋, I'm BAB/h1>
 <h3 align="center">A passionate fullstack developer from Earth</h3>
-
-- 📫 How to reach me **nunya@gmail.com**
 
 - ⚡ Fun fact **Hacker (Ethical)**
 
