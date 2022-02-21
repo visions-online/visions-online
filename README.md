@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Brian</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Earth</h3>
 
 - 📫 How to reach me **nunya@gmail.com**
 
 - ⚡ Fun fact **Hacker (Ethical)**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
