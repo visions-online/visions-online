@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm BAB</h1>
-<h3 align="center">A passionate fullstack developer from Earth</h3>
+<h3 align="center">A passionate full stack developer from Earth</h3>
 
 - ⚡ Fun fact **Hacker (Ethical)**
 
